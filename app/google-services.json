@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635158557542",
+    "project_id": "hospitalappointmentsyste-33ae8",
+    "storage_bucket": "hospitalappointmentsyste-33ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635158557542:android:5e6d60aff6488dd6610ea7",
+        "android_client_info": {
+          "package_name": "com.alisavran.hospitalappointmentsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRJCxuQwRm3pRzCwJEA0tEj1snX6Jjdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
